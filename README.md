@@ -1,3 +1,3 @@
 # GrIP-1.0.0
 
-GrIP is a Mathematica® based package that computes the Group Invariant Polynomial of (super)fields based on the information about their transformation properties under the assigned symmetries.
+The GrIP is a Mathematica® based package that computes the Group Invariant Polynomial of (super)fields. The user needs to prepare an input file containing information about (super)field content and their transformation properties under the assigned symmetries. The order of the polynomial is determined by the mass (non-supersymmetric models) and canonical (supersymmetric scenarios) dimensions. These operators can be suitably collected to form the Lagrangian. The GrIP allows the user to look for operators for specific processes which makes it unique. This program lays the foundation for BSM-EFT.
